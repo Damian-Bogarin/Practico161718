@@ -1,0 +1,18 @@
+
+
+.task-action {
+    cursor: pointer;
+    
+}
+
+.task-completed {
+
+    color: green;
+    text-decoration: line-through;
+
+}
+
+.task-pending{
+ font-weight: bold;
+ color: red;
+}
